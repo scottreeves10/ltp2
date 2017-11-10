@@ -2,7 +2,7 @@
 
 # Crafting Quality Code
 
-This project serves as a backup of my files and excercises from [Crafting Quality Code](https://www.coursera.org/learn/program-code), Universtiy of Toronto.
+This project serves as a backup of my files and excercises from <a href="https://www.coursera.org/learn/program-code" target="_blank">Crafting Quality Code</a>, Universtiy of Toronto.
 
 ### Prerequisites
 
