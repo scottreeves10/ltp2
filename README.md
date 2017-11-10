@@ -2,15 +2,15 @@
 
 # Project Title
 
-One Paragraph of project description goes here
+This project constains and serves as a backup of my files and excercises from Crafting Quality Code, Universtiy of Toronto, Coursera.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Not intended for reuse per se. Fork at your own discretion. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Your preferred Python distribution. 
 
 ```
 Give examples
